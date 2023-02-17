@@ -42,6 +42,12 @@ public void digersahne()
     {
         SceneManager.LoadScene("oyun_meteor");
     }
+    
+    public void Restart()
+    {
+        SceneManager.LoadScene("ana_ekran");
+
+    }
 
 
 
